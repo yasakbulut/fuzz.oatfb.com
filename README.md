@@ -1,3 +1,3 @@
-# fuzz.yasa.gs
+# fuzz.oatfb.com
 
-Generates names for fuzz music.
+Generates fuzzwords.

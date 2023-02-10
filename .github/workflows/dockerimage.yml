@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: fuzz.yasa.gs
+  IMAGE_NAME: fuzz.oatfb.com
 
 jobs:
   push:
