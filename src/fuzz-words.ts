@@ -1,4 +1,4 @@
-const verbs = [
+export const verbs = [
     'annihilate',
     'assassinate',
     'burn',
@@ -20,7 +20,7 @@ const verbs = [
     'waste',
 ];
 
-const nouns = [
+export const nouns = [
     'alchemist',
     'castle',
     'cave',
@@ -49,8 +49,3 @@ const nouns = [
     'tower',
     'wizard',
 ];
-
-module.exports = {
-    verbs,
-    nouns
-}
